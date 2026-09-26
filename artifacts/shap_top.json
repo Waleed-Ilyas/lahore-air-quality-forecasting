@@ -1,0 +1,17 @@
+{
+ "pm25_now": 0.1239,
+ "pm25_trend6": 0.0705,
+ "wind_mean_h": 0.068,
+ "boundary_layer_height_tgt": 0.0626,
+ "pm_coarse_ratio": 0.0558,
+ "blh_diff_tgt": 0.0539,
+ "snaive_1d": 0.0418,
+ "pm10_now": 0.0409,
+ "nitrogen_dioxide_now": 0.0281,
+ "temp_diff_tgt": 0.0278,
+ "snaive_3d_mean": 0.0274,
+ "relative_humidity_2m_tgt": 0.0269,
+ "wind_v_tgt": 0.0265,
+ "pm25_lag1": 0.0265,
+ "wind_speed_10m_tgt": 0.0232
+}
