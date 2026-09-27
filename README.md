@@ -2,7 +2,7 @@
 
 72-hour PM2.5 forecasts for Lahore with calibrated uncertainty, AQI-category alerts, a daily automated refresh and an interactive Streamlit dashboard.
 
-**Live demo:** _added after deployment_ · **Stack:** Python, LightGBM, DuckDB, MLflow, Streamlit, GitHub Actions
+**Live demo:** [https://lahore-air-quality-forecasting-ktsbxbedmucrla85wxm8vn.streamlit.app/](https://lahore-air-quality-forecasting-ktsbxbedmucrla85wxm8vn.streamlit.app/) · **Stack:** Python, LightGBM, DuckDB, MLflow, Streamlit, GitHub Actions
 
 ![App: 72-hour forecast](reports/figures/app_forecast_tab.png)
 
